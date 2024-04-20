@@ -50,8 +50,7 @@ Some softwares that I use daily
 
 ## Windows
 
-- [Hibit](http://www.hibitsoft.ir/Uninstaller.html) - Uninstaller tool for windows which removes the traces and also has the option to remove windows app
-  > Use the portable version
+- [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) - Uninstaller tool for windows which removes the traces and leftovers
 - [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) - Allows for manual control for graphics performance and also provides an customizable overlay
 - [NanaZip](https://github.com/M2Team/NanaZip) - 7zip alternative with native Windows 11 context menus
 - [PowerToys](https://github.com/microsoft/PowerToys) - Extremely good tool, which I mainly use for the Spotlight-like feature from Mac
