@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-<img src="./assets/123.gif" alt="moi" width="500">
+<img src=../assets/123.gif alt="moi" width="500">
 <h2>Hi! I'm Diamachi</h2>
 
 
@@ -27,7 +27,7 @@ That being said understand each step and proceed cautiously especially the hardw
 
 Cheers!
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=313zhibh4lxub7jseamnbqsckmni&cover_image=true&theme=default&bar_color=ff007b&bar_color_cover=false" width="250"/>
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=313zhibh4lxub7jseamnbqsckmni&cover_image=true&theme=default&bar_color=ff007b&bar_color_cover=false" alt="spotify" width="250"/>
 
 
 <br>
