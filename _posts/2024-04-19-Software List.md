@@ -8,8 +8,6 @@ comments: false
 pin: true
 ---
 
-# Softwares
-
 ---
 
 Some softwares that I use daily 
@@ -21,7 +19,7 @@ Some softwares that I use daily
 
 ---
 
-## Misc
+### Misc
 
 
 - [Arc](https://www.arctransfer.co/) - really good cross platform file transfer app
@@ -33,7 +31,7 @@ Some softwares that I use daily
 - [qBittorrent](https://www.qbittorrent.org/) - Open-source software alternative to µTorrent
 - [Termius](https://termius.com/) - Very pretty GUI client for SSH and SFTP
 
-## Mac
+### Mac
 
 - [BetterDisplay](https://github.com/waydabber/BetterDisplay) - Really useful, if you use multiple displays with Mac
 - [CleanMyMacX](https://cleanmymac.com/) - Handy all-in-one maintainence tool for MacOS
@@ -48,7 +46,7 @@ Some softwares that I use daily
 - [Unarchiver](https://theunarchiver.com/) - Archive utility for occasional rar or other files
 
 
-## Windows
+### Windows
 
 - [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) - Uninstaller tool for windows which removes the traces and leftovers
 - [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) - Allows for manual control for graphics performance and also provides an customizable overlay
@@ -63,7 +61,7 @@ Some softwares that I use daily
 - [Wiztree](https://diskanalyzer.com/) - Helps in visualizing large assortment of files (faster then WinDirStat)
 - [XDM](https://github.com/subhra74/xdm) - Download manager similar to IDM
 
-## Android
+### Android
 
 - [Backdrops](https://play.google.com/store/apps/details?id=com.backdrops.wallpapers) - Cool wallpaper app
 - [BatteryGuru](https://play.google.com/store/apps/details?id=com.paget96.batteryguru) - Clean app to monitor charging and battery health
