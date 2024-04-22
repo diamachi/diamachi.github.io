@@ -56,7 +56,7 @@ Now you can install generic realtek drivers from the official source
 
 ## --> Battery Limiter without Dragon Center
 
-[RWEverything]()
+[RWEverything](https://github.com/diamachi/diamachi.github.io/blob/main/assets/RwPortableX64V1.7.zip)
 
     If you have a similar aversion to using Dragon Center but also want to limit your battery charging limit
     Change the highlighted value to the following for the percentages limit
