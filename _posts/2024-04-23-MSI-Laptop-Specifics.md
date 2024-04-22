@@ -21,7 +21,7 @@ These are some of my pains and tricks I have with specifically this laptop/MSI i
 
 For people with Killer Networking, quite a lot of unnecessary services are enabled and running. Disable these on the Services app
 
-<img src="../assets/msi/services2.png" alt="services" width="300" height="200"/>
+<img src="../images/MSI/services2.png" alt="services" width="300" height="200"/>
 
 Also
 
@@ -44,7 +44,7 @@ To stop this we just disable driver updates from Windows updates itself, it does
 
     “Do not include drivers with Windows Updates” -> Click Enabled -> Apply -> OK
 
-   <img src="../assets/msi/gpedit.png" alt="gpedit" width="300" height="200"/>
+   <img src="../images/MSI/gpedit.png" alt="gpedit" width="300" height="200"/>
 
 **Using Regedit :**
 
@@ -56,7 +56,7 @@ To stop this we just disable driver updates from Windows updates itself, it does
 
     Name the new value as ExcludeWUDriversInQualityUpdate. Double-click it and set its value to 1
 
-<img src="../assets/msi/regedit.png" alt="regedit" width="300" height="200"/>
+<img src="../images/MSI/regedit.png" alt="regedit" width="300" height="200"/>
 
 Now you can install generic realtek drivers from the official source
 
@@ -73,4 +73,4 @@ Now you can install generic realtek drivers from the official source
      D0 -  80%
      E4 -  100%
 
-<img src="../assets/msi/battery.png" alt="battery" width ="300" height="200">
+<img src="../images/MSI/battery.png" alt="battery" width ="300" height="200">
