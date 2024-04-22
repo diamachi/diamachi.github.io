@@ -1,3 +1,12 @@
+---
+title: MSI Laptop Tweaks
+date: 2024-04-23 00:00:00 +0530
+categories: [Tweaks, MSI]
+tags: [tweaks]     # TAG names should always be lowercase
+comments: True
+---
+
+
 # Some specific tips for MSI Laptops
 
 My laptop is MSI GS65 2019
