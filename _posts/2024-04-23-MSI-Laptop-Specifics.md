@@ -47,7 +47,7 @@ To stop this we just disable driver updates from Windows updates itself, it does
 
     Name the new value as ExcludeWUDriversInQualityUpdate. Double-click it and set its value to 1
 
-<img src="../assets/msi/regedit.png" width="300" height="200"/>
+<img src="../assets/msi/regedit.png" alt="regedit" width="300" height="200"/>
 
 Now you can install generic realtek drivers from the official source
 
@@ -56,7 +56,7 @@ Now you can install generic realtek drivers from the official source
 
 ## --> Battery Limiter without Dragon Center
 
-[RWEverything](http://rweverything.com/downloads/RwPortableX64V1.7.zip)
+[RWEverything]()
 
     If you have a similar aversion to using Dragon Center but also want to limit your battery charging limit
     Change the highlighted value to the following for the percentages limit
@@ -64,4 +64,4 @@ Now you can install generic realtek drivers from the official source
      D0 -  80%
      E4 -  100%
 
-<img src="../assets/msi/battery.png" width ="300" height="200">
+<img src="../assets/msi/battery.png" alt="battery" width ="300" height="200">
