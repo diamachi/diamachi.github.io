@@ -8,7 +8,7 @@ comments: True
 
 I will assume you have an installed windows 11 Home or Pro, with your desired partitions laid out. There isnt anything to tweak in those.
 
-I use [Hibit Portable](http://www.hibitsoft.ir/Uninstaller.html) for any uninstallations
+I use **Hibit Portable Uninstaller** for any uninstallations
 
 - ## First time boot up
 

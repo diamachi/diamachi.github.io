@@ -55,7 +55,7 @@ For stress test use the Throttlestop bench option, if there is a single error on
   - Battery - For pushing the battery to last longer
 
 > ### For auto-switching to battery profile
-> ![tstop](../images/temps/ts.png)
+> ![tstop](../images/Temps/ts.png)
 
 ### For games/programs that require higher clocks
 > - Performance
