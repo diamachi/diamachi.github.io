@@ -10,8 +10,6 @@ pin: true
 
 ---
 
-Some softwares that I use daily 
-
   - [Misc](#misc)
   - [Mac](#mac)
   - [Windows](#windows)

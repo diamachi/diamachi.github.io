@@ -1,6 +1,6 @@
 ---
 title: WSL Know-How
-date: 2024-04-24 00:00:00 +0530
+date: 2024-04-23 00:00:00 +0530
 categories: [Linux]
 tags: [tweaks]     # TAG names should always be lowercase
 comments: True
